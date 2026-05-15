@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasDev-22&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev-22&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
+  <img width="49%" height="195px" src="https://github-readme-stats-zeta-taupe-69.vercel.app/api?username=LucasDev-22&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
+  <img width="49%" height="195px" src="https://github-readme-stats-zeta-taupe-69.vercel.app/api/top-langs/?username=LucasDev-22&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
 </div>
 
 <div align="center">
